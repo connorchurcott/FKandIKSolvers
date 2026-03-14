@@ -15,4 +15,6 @@ C# implementations of forward and inverse kinematics for a hierarchical skeletal
 - The IK chain extends from the end effector all the way up to the root hip joint
 - FK is re-run after every CCD iteration to keep global positions consistent with updated local quaternions
 
+
+
 **NOTE**: This repo will not run on its own as its missing the required unity scene to run it. This repo is just here to display what I have built and my knowledge of IK and FK systems. 
